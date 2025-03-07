@@ -25,4 +25,5 @@
 - **Giỏ Hàng & Đặt Hàng:** Cho phép người dùng thêm sản phẩm vào giỏ, cập nhật và đặt hàng.
 - **Xác Thực Người Dùng:** Đăng ký, đăng nhập và quản lý tài khoản.
 - **Quản Lý Admin:** Dashboard quản trị để quản lý sản phẩm, danh mục và đơn hàng.
+-   
 
